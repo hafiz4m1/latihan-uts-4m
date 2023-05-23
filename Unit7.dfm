@@ -35,6 +35,10 @@ object Form7: TForm7
         Caption = 'grafik informasi'
         OnClick = grafikinformasi1Click
       end
+      object mandiri11: TMenuItem
+        Caption = 'mandiri1'
+        OnClick = mandiri11Click
+      end
     end
   end
 end

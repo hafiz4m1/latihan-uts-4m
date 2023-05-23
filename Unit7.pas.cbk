@@ -32,7 +32,7 @@ var
 implementation
 
 uses
-  Unit1, Unit2, Unit3, Unit4;
+  Unit1, Unit2, Unit3, Unit4, Unit5;
 
 {$R *.dfm}
 
